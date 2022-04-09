@@ -1,6 +1,6 @@
 /* eslint-disable linebreak-style */
 /* eslint-disable import/extensions */
-import { orderByProps } from './app.js';
+import orderByProps from './app.js';
 
 
 test('show a table', () => {
